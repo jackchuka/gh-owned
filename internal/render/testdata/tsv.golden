@@ -1,0 +1,31 @@
+owner	acme/api	codeowner	@acme/eng	
+path-owner	acme/web	partial	@acme/eng,@alice,@acme/platform-infrastructure	paths: /a/ /b/ /c/ /d/; CODEOWNERS owned by others: /e/
+owner	labs/x	approve	@alice	Copilot-opened PRs need one more approval
+approver	acme/ops	approve		CODEOWNERS not enforced: @bob
+owner	big/ra0	open		
+owner	big/rb0	open		
+owner	big/rc0	open		
+owner	big/rd0	open		
+owner	big/re0	open		
+owner	big/rf0	open		
+owner	big/rg0	open		
+owner	big/rh0	open		
+owner	big/ri0	open		
+owner	big/rj0	open		
+owner	big/rk0	open		
+owner	big/rl0	open		
+owner	big/rm0	open		
+owner	big/rn0	open		
+owner	big/ro0	open		
+owner	big/rp0	open		
+owner	big/rq0	open		
+owner	big/rr0	open		
+owner	big/rs0	open		
+owner	big/rt0	open		
+owner	big/ru0	open		
+owner	big/rv0	open		
+owner	big/rw0	open		
+owner	big/rx0	open		
+owner	big/ry0	open		
+owner	big/rz0	open		
+owner	big/ra1	open		

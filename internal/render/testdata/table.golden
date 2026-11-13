@@ -1,0 +1,39 @@
+alice  4 repos scanned · 29 owner · 1 path owner · 1 approver
+via  @acme/eng 2 · @alice 2 · @acme/platform-infrastructure 1
+
+Owner (29) you own the default
+  acme/api  ✓ codeowner  @acme/eng
+  labs/x    ✓ approve    @alice                                          Copilot-opened PRs need one more approval
+  big/ra0   ✓ open
+  big/rb0   ✓ open
+  big/rc0   ✓ open
+  big/rd0   ✓ open
+  big/re0   ✓ open
+  big/rf0   ✓ open
+  big/rg0   ✓ open
+  big/rh0   ✓ open
+  big/ri0   ✓ open
+  big/rj0   ✓ open
+  big/rk0   ✓ open
+  big/rl0   ✓ open
+  big/rm0   ✓ open
+  big/rn0   ✓ open
+  big/ro0   ✓ open
+  big/rp0   ✓ open
+  big/rq0   ✓ open
+  big/rr0   ✓ open
+  big/rs0   ✓ open
+  big/rt0   ✓ open
+  big/ru0   ✓ open
+  big/rv0   ✓ open
+  big/rw0   ✓ open
+  big/rx0   ✓ open
+  big/ry0   ✓ open
+  big/rz0   ✓ open
+  big/ra1   ✓ open
+
+Path owner (1) you own some paths
+  acme/web  ~ partial    @acme/eng @alice @acme/platform-infrastructure  paths: /a/ /b/ /c/ /d/ · CODEOWNERS owned by others: /e/
+
+Approver (1) nobody named you; any writer's approval merges
+  acme/ops  ✓ approve                                                    CODEOWNERS not enforced: @bob

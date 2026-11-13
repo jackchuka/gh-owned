@@ -1,0 +1,39 @@
+[1malice[0m  [2m4 repos scanned · 29 owner · 1 path owner · 1 approver[0m
+[2mvia[0m  @acme/eng 2 · @alice 2 · @acme/platform-infrastructure 1
+
+[1mOwner (29)[0m [2myou own the default[0m
+  [1macme/api[0m  [32m✓ codeowner[0m  [36m@acme/eng[0m
+  [1mlabs/x  [0m  [32m✓ approve  [0m  [36m@alice                                        [0m  [2mCopilot-opened PRs need one more approval[0m
+  [1mbig/ra0 [0m  [32m✓ open[0m
+  [1mbig/rb0 [0m  [32m✓ open[0m
+  [1mbig/rc0 [0m  [32m✓ open[0m
+  [1mbig/rd0 [0m  [32m✓ open[0m
+  [1mbig/re0 [0m  [32m✓ open[0m
+  [1mbig/rf0 [0m  [32m✓ open[0m
+  [1mbig/rg0 [0m  [32m✓ open[0m
+  [1mbig/rh0 [0m  [32m✓ open[0m
+  [1mbig/ri0 [0m  [32m✓ open[0m
+  [1mbig/rj0 [0m  [32m✓ open[0m
+  [1mbig/rk0 [0m  [32m✓ open[0m
+  [1mbig/rl0 [0m  [32m✓ open[0m
+  [1mbig/rm0 [0m  [32m✓ open[0m
+  [1mbig/rn0 [0m  [32m✓ open[0m
+  [1mbig/ro0 [0m  [32m✓ open[0m
+  [1mbig/rp0 [0m  [32m✓ open[0m
+  [1mbig/rq0 [0m  [32m✓ open[0m
+  [1mbig/rr0 [0m  [32m✓ open[0m
+  [1mbig/rs0 [0m  [32m✓ open[0m
+  [1mbig/rt0 [0m  [32m✓ open[0m
+  [1mbig/ru0 [0m  [32m✓ open[0m
+  [1mbig/rv0 [0m  [32m✓ open[0m
+  [1mbig/rw0 [0m  [32m✓ open[0m
+  [1mbig/rx0 [0m  [32m✓ open[0m
+  [1mbig/ry0 [0m  [32m✓ open[0m
+  [1mbig/rz0 [0m  [32m✓ open[0m
+  [1mbig/ra1 [0m  [32m✓ open[0m
+
+[1mPath owner (1)[0m [2myou own some paths[0m
+  [1macme/web[0m  [33m~ partial  [0m  [36m@acme/eng @alice @acme/platform-infrastructure[0m  [2mpaths: /a/ /b/ /c/ /d/ · CODEOWNERS owned by others: /e/[0m
+
+[1mApprover (1)[0m [2mnobody named you; any writer's approval merges[0m
+  [1macme/ops[0m  [32m✓ approve  [0m  [36m                                              [0m  [2mCODEOWNERS not enforced: @bob[0m

@@ -1,0 +1,219 @@
+{
+  "viewer": "alice",
+  "scanned": 4,
+  "repos": [
+    {
+      "repo": "acme/api",
+      "permission": "ADMIN",
+      "role": "owner",
+      "via": [
+        "@acme/eng"
+      ],
+      "solo": "codeowner"
+    },
+    {
+      "repo": "acme/web",
+      "permission": "ADMIN",
+      "role": "path-owner",
+      "owned_paths": [
+        "/a/",
+        "/b/",
+        "/c/",
+        "/d/"
+      ],
+      "via": [
+        "@acme/eng",
+        "@alice",
+        "@acme/platform-infrastructure"
+      ],
+      "solo": "partial",
+      "notes": [
+        "CODEOWNERS owned by others: /e/"
+      ]
+    },
+    {
+      "repo": "labs/x",
+      "permission": "WRITE",
+      "role": "owner",
+      "via": [
+        "@alice"
+      ],
+      "solo": "approve",
+      "notes": [
+        "Copilot-opened PRs need one more approval"
+      ],
+      "copilot_extra": true
+    },
+    {
+      "repo": "acme/ops",
+      "permission": "ADMIN",
+      "role": "approver",
+      "solo": "approve",
+      "unenforced_codeowners": [
+        "@bob"
+      ]
+    },
+    {
+      "repo": "big/ra0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rb0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rc0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rd0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/re0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rf0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rg0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rh0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/ri0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rj0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rk0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rl0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rm0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rn0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/ro0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rp0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rq0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rr0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rs0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rt0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/ru0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rv0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rw0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rx0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/ry0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/rz0",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    },
+    {
+      "repo": "big/ra1",
+      "permission": "",
+      "role": "owner",
+      "solo": "open"
+    }
+  ]
+}
